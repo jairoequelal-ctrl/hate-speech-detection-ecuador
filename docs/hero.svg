@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#312e81"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#g)"/>
+<circle cx="1010" cy="85" r="150" fill="#ffffff" opacity=".035"/>
+<circle cx="1090" cy="330" r="210" fill="#ffffff" opacity=".025"/>
+<text x="70" y="85" font-family="Arial, sans-serif" font-size="24" fill="#a5b4fc" font-weight="700">PUBLISHED NLP RESEARCH · SPRINGER</text>
+<text x="70" y="155" font-family="Arial, sans-serif" font-size="48" fill="white" font-weight="700">Hate Speech Detection</text>
+<text x="70" y="210" font-family="Arial, sans-serif" font-size="34" fill="#e5e7eb">during Ecuador's 2022 National Strike</text>
+<text x="70" y="275" font-family="Arial, sans-serif" font-size="21" fill="#c7d2fe">TF-IDF · Multinomial Naive Bayes · Spanish NLP</text>
+<text x="70" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">33,512 tweets</text>
+<text x="300" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">84.8% accuracy</text>
+<text x="545" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">Peer-reviewed publication</text>
+</svg>
