@@ -14,5 +14,5 @@
 <text x="70" y="275" font-family="Arial, sans-serif" font-size="21" fill="#c7d2fe">TF-IDF · Multinomial Naive Bayes · Spanish NLP</text>
 <text x="70" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">33,512 tweets</text>
 <text x="300" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">84.8% accuracy</text>
-<text x="545" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">Peer-reviewed publication</text>
+<text x="545" y="345" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">Publication</text>
 </svg>
